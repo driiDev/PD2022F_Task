@@ -1,0 +1,19 @@
+body {
+    font-family: 'Alata';
+    font-size: 16px;
+  }
+
+#tabelas {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+#tabelasETitulo {
+    display: flex;
+    flex-direction: column;
+}
+
+#tabela1 {
+    vertical-align: top;
+}
